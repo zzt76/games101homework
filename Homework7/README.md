@@ -1,0 +1,3 @@
+I've finished task ...
+1. 提交格式正确，能正常编译运行
+2. 正确实现Path Tracing 分辨率512*512 SSP=16 运行时间26分钟 windows下运行 MSVC编译器

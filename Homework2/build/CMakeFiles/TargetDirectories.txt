@@ -1,0 +1,3 @@
+/home/cs18/Desktop/CG/Assignment2(MSAA)/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/CG/Assignment2(MSAA)/build/CMakeFiles/Rasterizer.dir
+/home/cs18/Desktop/CG/Assignment2(MSAA)/build/CMakeFiles/edit_cache.dir
